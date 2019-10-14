@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SamWebb_ALS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SamWebb_ALS.jar</output-path>
+    <root id="archive" name="SamWebb_ALS.jar">
+      <element id="module-output" name="javafx-project" />
+    </root>
+  </artifact>
+</component>
